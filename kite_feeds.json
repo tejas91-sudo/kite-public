@@ -7028,7 +7028,7 @@
       "https://publish.tribuneindia.com/newscategory/top-headlines/feed/",
       "https://publish.tribuneindia.com/opinions/editorials/feed/",
       "https://scroll.in/feeds/latest.rss",
-      "https://swarajyamag.com/feed",
+      "https://www.loksatta.com/desh-videsh/feed/",
       "https://theprint.in/feed/",
       "https://thewire.in/rss",
       "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
@@ -7084,7 +7084,9 @@
       "https://www.thestatesman.com/feed",
       "https://www.theweek.in/news/india.rss.html",
       "https://www.tribuneindia.com/rss/nation",
-      "https://zeenews.india.com/rss/india-national-news.xml"
+      "https://zeenews.india.com/rss/india-national-news.xml",
+      "http://www.bbc.co.uk/hindi/india/index.xml",
+      "https://www.mid-day.com/Resources/midday/rss/india-news.xml"
     ]
   },
   "India | Tamil Nadu": {
